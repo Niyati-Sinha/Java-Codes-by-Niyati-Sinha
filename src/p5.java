@@ -8,6 +8,5 @@ public class p5 {
         System.out.println("Üpdate cgpa :");
         cgpa= sc.nextDouble();
         System.out.println(cgpa);
-        //hi
     }
 }
